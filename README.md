@@ -1,4 +1,4 @@
-# Table Relations with SQL Conclusion
+# Table Relations in SQL Conclusion
 
 We've established that SQL is a useful programming language to know, and that
 the majority of databases you'll work with will have more than one table. As
